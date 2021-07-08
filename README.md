@@ -25,7 +25,7 @@ I am a frontend developer from Ecuador 🇪🇨
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img align="left" alt="oracle" src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
 <img align="left" alt="android" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="sqlserver" src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=black&style=for-the-badge" />
+<img align="left" alt="sqlserver" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=black&style=for-the-badge" />
 <img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
 
 <br>
