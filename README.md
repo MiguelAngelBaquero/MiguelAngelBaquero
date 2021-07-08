@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontend developer from Ecuador 🇪🇨
+I am a frontend developer from Quito - Ecuador 🇪🇨
 
 - 🔭 I’m currently working on multiple frontend projects using Vanilla JS & React. Also I work with databases such as Oracle and SQL Server. In the past, I worked with Java ☕ and Android 📱
 - 🌱 I’m currently learning MERN and also interested in PostgreSQL 🐘 and Python 🐍. 
@@ -24,9 +24,15 @@ I am a frontend developer from Ecuador 🇪🇨
 <img align="left" alt="css" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img align="left" alt="oracle" src="https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" />
-<img align="left" alt="android" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
 <img align="left" alt="sqlserver" src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=black&style=for-the-badge" />
 <img align="left" alt="python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img align="left" alt="android" src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+
+<br>
+<br>
+
+## Papers 📄
+[<img align="left" alt="springer" src="https://img.shields.io/badge/-Springer-417db9?style=for-the-badge" />](https://link.springer.com/chapter/10.1007/978-3-030-32033-1_28) Design and Implementation of a Panic Alert System to Notify Theft Events 
 
 <br>
 <br>
